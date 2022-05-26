@@ -1,18 +1,16 @@
 {
-    "name": "HK22",
-    "description": "Deploy HK22 on Heroku.",
-    "keywords": ["HK22"],
-    "env": {
-        "ID": {
-            "description": "UUID",
-            "value": "e330a627-c803-4c9e-a366-5b13b3a5ebae"
-        },
-        "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
-        }
-    },
-    "website": "https://www.google.com/",
-    "repository": "https://github.com/jwan9714/HK22",
-    "stack": "container"
+  "name": "heroku-vless",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+    }
+  },
+  "website": "https://github.com/rptec/",
+  "repository": "https://github.com/rptec/heroku-vless",
+  "stack": "container"
 }
