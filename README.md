@@ -13,7 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jwan9714/HK22/tree/vless)
 
 
 #### 注：失效问题
@@ -40,7 +40,7 @@ https://dashboard.heroku.com/new?template=https://github.com/rptec/heroku-vless.
 
 ### UUID
 
-`UUID` 默认为 `10974d1a-cbd6-4b6f-db1d-38d78b3fb109` 你也可以在部署时自由修改（建议修改）。
+`UUID` 默认为 `e330a627-c803-4c9e-a366-5b13b3a5ebae` 你也可以在部署时自由修改（建议修改）。
 
 ## 流量中转
 
