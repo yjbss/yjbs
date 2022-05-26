@@ -1,16 +1,16 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "HKL",
+  "description": "Deploy HKL on Heroku.",
   "keywords": [
-    "vless"
+    "HKL"
   ],
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "e330a627-c803-4c9e-a366-5b13b3a5ebae"
     }
   },
   "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "repository": "https://github.com/jwan9714/HK22",
   "stack": "container"
 }
