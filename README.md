@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
+**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/jwan9714/Heroku/tree/vless) 分支。**
 
 ## 概述
 
@@ -13,10 +13,10 @@
 ### 步骤
 
  1. Fork 本专案到自己的 GitHub 账户（用户名以 `jwan9714` 为例）
- 2. 修改专案名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的专案名以 `HK` 为例）
- 3. 修改 `README.md`，将 `bclswl0827/v2ray-heroku` 替换为自己的内容（如 `jwan9714/HK`）
+ 2. 修改专案名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的专案名以 `HK22` 为例）
+ 3. 修改 `README.md`，将 `jwan9714/HK22` 替换为自己的内容（如 `jwan9714/HK22`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jwan9714/HK)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jwan9714/HK22)
 
  4. 回到专案首页，点击上面的链接以部署 V2Ray
 
@@ -26,7 +26,7 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `ad806487-2d26-4636-98b6-ab85cc8521f7` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
+| `ID` | `f583f096-747b-452f-a334-2049b9a2164a` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
 ## 接入 CloudFlare
