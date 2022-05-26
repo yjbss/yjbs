@@ -1,7 +1,7 @@
 {
-    "name": "Jie",
-    "description": "Deploy Jie on Heroku.",
-    "keywords": ["Jie"],
+    "name": "HK22",
+    "description": "Deploy HK22 on Heroku.",
+    "keywords": ["HK22"],
     "env": {
         "ID": {
             "description": "UUID",
