@@ -16,7 +16,7 @@
  2. 修改专案名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的专案名以 `HK22` 为例）
  3. 修改 `README.md`，将 `jwan9714/HK22` 替换为自己的内容（如 `jwan9714/HK22`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jwan9714/HK22)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yjbss/yjbs)
 
  4. 回到专案首页，点击上面的链接以部署 V2Ray
 
